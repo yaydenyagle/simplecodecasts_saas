@@ -14,5 +14,3 @@ ActionMailer::Base.smtp_settings = {
   :domain => "heroku.com",
   :enable_startstls_auto => true
 }
-=======
->>>>>>> parent of c5c1e6a... Added actionmailer settings
